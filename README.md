@@ -12,7 +12,7 @@
 - Our “Recommendation Engine” AI solution for this ecommerce website is to implement the unsupervised clustering(K-Means) method, which creates customer segmentations (by giving different RFM scores, also based on their prior purchases and relationship with the ecommerce website), and evaluated the results (for further actions catering to different customer segments).
 
 
-### Detailed Information Linked Here - 
+### Detailed Information Linked [HERE](https://github.com/chuyu-c/Customer-Segmentation-By-Book-Purchase-History/blob/main/RFM_KMeans_Segmentation.pdf)
 
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
